@@ -1,9 +1,12 @@
-# 🚀 DevOps Journey  
+<h1 align="center">🚀 DevOps Journey</h1>
 
-Meu repositório oficial de estudos para me tornar um profissional DevOps.  
-Aqui registro minha evolução diária, anotações, projetos, laboratórios e tudo o que aprendo no caminho.
+<p align="center">
+Meu diário de aprendizado DevOps: estudos, exercícios, projetos e laboratórios.
+</p>
 
 ---
+
+## 📌 Estrutura do Repositório
 
 ## 📚 Sobre a Jornada
 
