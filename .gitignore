@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Node / Python / etc
+node_modules/
+__pycache__/
+
