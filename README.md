@@ -23,11 +23,32 @@ Tudo organizado para que qualquer pessoa consiga acompanhar e entender minha evo
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
-Abaixo está a estrutura completa do repositório, já com **todos os diretórios e subpastas**:
+Abaixo está a estrutura completa do repositório, já com todos os diretórios e subpastas:
 
-devops-journey/ │ ├── fundamentos/                      → Base teórica e dias de estudo essenciais │   ├── dia-01/                       → Fundamentos DevOps + Git Básico │   ├── dia-02/                       → Git Avançado │   └── dia-03/                       → Linux Básico │ ├── projetos/                         → Projetos completos e profissionais │   ├── pipeline-ci-cd/               → Pipeline CI/CD real usando GitHub Actions │   └── infra-terraform/              → Infra como Código usando Terraform │ ├── labs/                             → Laboratórios rápidos para prática direta │   ├── git-lab/                      → Testes de Git (branch, merge, reset, rebase) │   ├── docker-lab/                   → Testes com Docker e Docker Compose │   └── ci-cd-lab/                    → Mini Pipelines de CI/CD │ └── anotações/                        → Guias, resumos e referências ├── git.md ├── linux.md └── ...
+```md
+devops-journey/
+│
+├── fundamentos/                      → Base teórica e dias de estudo essenciais
+│   ├── dia-01/                       → Fundamentos DevOps + Git Básico
+│   ├── dia-02/                       → Git Avançado
+│   └── dia-03/                       → Linux Básico
+│
+├── projetos/                         → Projetos completos e profissionais
+│   ├── pipeline-ci-cd/               → Pipeline CI/CD real usando GitHub Actions
+│   └── infra-terraform/              → Infra como Código usando Terraform
+│
+├── labs/                             → Laboratórios rápidos para prática direta
+│   ├── git-lab/                      → Testes de Git (branch, merge, reset, rebase)
+│   ├── docker-lab/                   → Testes com Docker e Docker Compose
+│   └── ci-cd-lab/                    → Mini Pipelines de CI/CD
+│
+└── anotações/                        → Guias, resumos e referências
+    ├── git.md
+    ├── linux.md
+    └── ...
+```
 
 ---
 
